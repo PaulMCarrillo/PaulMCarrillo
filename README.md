@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Paul M Carrillo!
+- 👀 I’m interested in computer vision and automation
+- 🌱 I’m currently learning VR programming!
+- 💞️ I’m looking to collaborate on anything in the world!
